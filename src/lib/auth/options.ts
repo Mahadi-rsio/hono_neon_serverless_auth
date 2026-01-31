@@ -12,7 +12,7 @@ import { jwtPlugin } from './jwt.plugin.js';
  cookieCache has 30 minuite expirationTime
 **/
 
-export const basePath : string = '/api/0/e/G/fXfsr56GCFVGHBNJMKHYTGFRDESFYUGUB/auth';
+export const basePath : string = '/api/0/e/G/f/auth';
 
 export const betterAuthOptions: BetterAuthOptions = {
     appName: 'Auth',
